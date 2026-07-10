@@ -1,0 +1,9 @@
+﻿Department_ID,Department_Name,Region_ID,Manager_ID,Location
+D001,Finance,R01,EMP001,Nagpur
+D002,Human Resources,R02,EMP002,Pune
+D003,Information Technology,R03,EMP003,Bengaluru
+D004,Sales,R04,EMP004,Mumbai
+D005,Marketing,R01,EMP005,Delhi
+D006,Operations,R02,EMP006,Hyderabad
+D007,Procurement,R03,EMP007,Chennai
+D008,Administration,R04,EMP008,Ahmedabad
