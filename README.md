@@ -1045,7 +1045,7 @@ The Home Dashboard improves user experience by providing centralized navigation 
 
 # 👨‍💼 2. Executive Dashboard
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+![Executice Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
 
 ---
 
