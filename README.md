@@ -1014,7 +1014,7 @@ The Enterprise Financial Analytics Dashboard consists of **six professionally de
 
 # 🏠 1. Home Dashboard
 
-![Main Page Dashboard](Dashboard%20Screenshots/Home%20Dashboard.png)
+![Main Page Dashboard](Dashboard%20Screenshots/Main%20Page%20Dashboard.png)
 
 ---
 
