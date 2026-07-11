@@ -1014,7 +1014,7 @@ The Enterprise Financial Analytics Dashboard consists of **six professionally de
 
 # 🏠 1. Home Dashboard
 
-![Home Dashboard](Dashboard%20Screenshots/Home%20Dashboard.png)
+![Main Page Dashboard](Dashboard%20Screenshots/Home%20Dashboard.png)
 
 ---
 
@@ -1213,7 +1213,7 @@ Tracks organizational projects and monitors project execution.
 
 # 👥 6. Workforce Analytics Dashboard
 
-![Workforce Analytics Dashboard](Dashboard%20Screenshots/Workforce%20Analytics%20Dashboard.png)
+![Workforce Analysis Dashboard](Dashboard%20Screenshots/Workforce%20Analysis%20Dashboard.png)
 
 ---
 
